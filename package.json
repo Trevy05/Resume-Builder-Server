@@ -2,6 +2,9 @@
   "name": "resume_builder_backend",
   "version": "1.0.0",
   "main": "index.js",
+  "engines": {
+    "node": "14.20.1"
+  },
   "repository": "https://github.com/Trevy05/Resume-Builder-Server.git",
   "license": "MIT",
   "scripts": {
